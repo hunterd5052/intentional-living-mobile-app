@@ -1,5 +1,6 @@
 # intentional-living-mobile-app
 
+## Project vision
 Mobile app to help users live intentionally and to relieve daily stress.
 
 The app turns scattered tasks, events, habits, and thoughts into one calm daily plan, with a forecast of the week and month ahead. It is built for iOS and Android with React Native and Expo.

@@ -6,7 +6,7 @@ People carry a constant, low-level stress from not knowing what their days, week
 
 When they fall behind, the gap between the plan and reality turns into overwhelm. Things they meant to do quietly slip away: a promise made in passing, a responsibility taken on while busy, a habit they wanted to build. They usually notice when it is already too late.
 
-Existing tools make this worse in small ways:
+Existing tools make this more difficult in small ways:
 
 - **Fragmentation.** Tasks, events, habits, and journaling live in separate apps, so the user does the work of copying, syncing, and remembering.
 - **Manual replanning.** Turning a monthly and weekly plan into a realistic daily plan takes effort every evening, and falls apart on busy days.

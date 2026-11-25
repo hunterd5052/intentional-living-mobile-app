@@ -53,4 +53,4 @@ Hunter is using this project to practice GitHub.
 
 ## Reference material
 
-`hunterd5/ScreentimeEconomyApp` is an earlier, unplanned prototype of this idea. Use it only as a reference for ideas and comment style. The plan and documents in this repo take priority.
+`hunterd5/ScreentimeEconomyApp` is an earlier, unplanned prototype of this idea. Use it only as a reference for ideas, comment style, and possible screens. The plan and documents in this repo take priority.

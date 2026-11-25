@@ -43,7 +43,7 @@ Capturing a thought or a promise should be as fast as having it.
 
 ## 6. Turn thoughts and feelings into action
 
-Feelings are information. The journal helps people notice what they want and need, then gives them a concrete next step, so nothing stays stuck as a thought.
+Feelings are information. The journal helps people notice what they want and need, then helps them come up with a concrete next step, so nothing stays stuck as a thought.
 
 ## 7. Earned rest is part of the plan
 

@@ -9,10 +9,13 @@ A session is about 1 to 2 hours:
 1. **Recap** (5 min): what happened last time and where it sits on this roadmap.
 2. **Goal and forecast** (10 min): what we are doing, why, and what "done" looks like.
 3. **Build together** (45 to 75 min): the work itself.
-4. **Reflect** (15 min): before closing the issue, write three short answers in it:
-   - What did I build or decide?
+4. **Reflect** (15 min): open the pull request and fill in the template, which GitHub adds to every new PR automatically ([.github/pull_request_template.md](../.github/pull_request_template.md)). It asks:
+   - What does this do, and why?
    - Where does it sit in the architecture map?
-   - What would I do differently, or what is still confusing?
+   - What did I learn, what was harder than expected, and what is still confusing?
+   - What guesses did I make that should be checked later?
+
+   The issue says what needs doing and why. The pull request is where you reflect, because it sits next to the exact changes you made.
 
 If a session finishes early, stop and reflect anyway. Starting the next box is optional, not expected.
 

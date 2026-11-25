@@ -32,7 +32,7 @@ Research, then requirements, then design, then build. Do not jump ahead to code 
 
 The one planned exception is the **architecture spike** in Phase 0 (sessions 0.5 to 0.7). It is a throwaway learning app in the `spike/` folder that makes the architecture map concrete. Keep it tiny, do not grow it into the real app, and do not copy its code into the real app later without review.
 
-Each session ends with a short written reflection in the issue (what was built or decided, where it sits in the architecture map, what is still confusing). Leave time for it.
+Each session ends with a short written reflection in the pull request, using the template in `.github/pull_request_template.md` (what it does and why, where it sits in the architecture map, what was learned, what is still confusing, and any guesses to check later). Leave time for it. Help Hunter fill it in, but the reflection answers are Hunter's own words; do not write them on Hunter's behalf.
 
 ## Code style
 
@@ -55,7 +55,7 @@ Hunter is using this project to practice GitHub.
 
 - Every unit of work starts as a **GitHub issue**, and its branch is named after it (for example `12-daily-plan-screen`).
 - Make small commits with clear messages that explain *why*, not just *what*.
-- Open a **pull request** for every change, link the issue (`Closes #12`), and explain the change so Hunter can review the diff.
+- Open a **pull request** for every change, link the issue (`Closes #12`), and fill in the PR template so Hunter can review the diff and reflect on it.
 - Never push directly to `main`.
 
 ## Reference material

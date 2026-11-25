@@ -31,6 +31,7 @@ Missing a day is normal. The app should help people get back on track, not punis
 
 - Habits use weekly targets and consistency scores, not all-or-nothing streaks.
 - Missed tasks roll into a reserve and get rescheduled, with no shame language.
+- After an item rolls over three times, ask kindly whether to shrink it, schedule it, or let it go. Letting go is a valid, guilt-free choice, not a failure.
 - Copy should be kind and encouraging, never scolding.
 
 ## 5. Intention with minimal friction
@@ -43,7 +44,7 @@ Capturing a thought or a promise should be as fast as having it.
 
 ## 6. Turn thoughts and feelings into action
 
-Feelings are information. The journal helps people notice what they want and need, then gives them a concrete next step, so nothing stays stuck as a thought.
+Feelings are information. The journal helps people notice what they want and need, then helps them come up with a concrete next step, so nothing stays stuck as a thought.
 
 ## 7. Earned rest is part of the plan
 
@@ -53,7 +54,8 @@ Free time without guilt is the real reward. The app shows open space ahead and c
 
 Journal entries and personal plans are some of the most private things a person writes.
 
-- Keep personal data on the device by default, and keep anything that syncs encrypted.
+- Keep personal data on the device by default. Backups and sync between devices are always encrypted, with no exceptions.
+- Data from the user's phone calendar is only used to plan their day. It is never shared or sold.
 - Do not send journal content to outside services, including AI services, unless the user explicitly opts in.
 - The app supports wellbeing but is not a mental-health service. If that boundary matters for a feature, say so clearly in the app.
 
@@ -64,3 +66,13 @@ The app should feel like it understands the user through thoughtful design and w
 ## 10. Built on evidence
 
 Design decisions should trace back to user research (interviews with organizers and aspiring organizers) and to psychology research on stress, planning, habits, and motivation. When a decision is a guess, label it as one.
+
+## 11. Free for everyone, funded in the open
+
+Help with stress and planning should not depend on what someone can afford. Subscriptions and ads shut out many of the people who need this most, and ads pull attention away, which works against principle 1.
+
+- No subscriptions, no paid tiers, no paywalled features, and no ads, ever.
+- The app is funded by voluntary donations. It shows the yearly running cost, what each cost is for, and progress toward that goal.
+- Asking for support is always calm and optional. It never interrupts planning, never blocks a feature, and never uses guilt or false urgency.
+- Anything donated beyond the yearly goal is clearly explained as going to the developers, with thanks.
+- See [FUNDING.md](FUNDING.md) for the details.

@@ -7,6 +7,7 @@ This file is read automatically by Claude, and should be read by any other AI as
 - [docs/PROBLEM_STATEMENT.md](docs/PROBLEM_STATEMENT.md): what problem the app solves and for whom
 - [docs/VALUES.md](docs/VALUES.md): the product's values. Check every feature and design decision against them.
 - [docs/ROADMAP.md](docs/ROADMAP.md): the phased checklist. Each item is one session and one GitHub issue.
+- [docs/FUNDING.md](docs/FUNDING.md): how the app stays free, ad-free, and funded by transparent donations.
 
 ## Who you are working with
 
@@ -29,6 +30,10 @@ Size each session to fit 1 to 2 hours.
 
 Research, then requirements, then design, then build. Do not jump ahead to code before the earlier phase's deliverable is reviewed, unless Hunter asks to. Features marked "Later" in the roadmap (screen-time rewards, app blocking, shared habits, Community) stay out of the first version.
 
+The one planned exception is the **architecture spike** in Phase 0 (sessions 0.5 to 0.7). It is a throwaway learning app in the `spike/` folder that makes the architecture map concrete. Keep it tiny, do not grow it into the real app, and do not copy its code into the real app later without review.
+
+Each session ends with a short written reflection in the issue (what was built or decided, where it sits in the architecture map, what is still confusing). Leave time for it.
+
 ## Code style
 
 - Stack: **React Native with Expo, in TypeScript.** Use strict types.
@@ -41,6 +46,8 @@ Research, then requirements, then design, then build. Do not jump ahead to code 
 - Never send journal entries or personal data to outside services without explicit user opt-in.
 - Do not add AI features to the product by default. Prefer explainable rules (see VALUES.md, principle 9).
 - Copy in the app is kind and calm. No shame language and no false urgency.
+- The app is free for everyone. Never add ads, subscriptions, paid tiers, or paywalled features (see VALUES.md, principle 11). Donation prompts must be optional and must never interrupt planning.
+- Backups and sync between devices are always encrypted.
 
 ## GitHub workflow
 
@@ -53,4 +60,4 @@ Hunter is using this project to practice GitHub.
 
 ## Reference material
 
-`hunterd5/ScreentimeEconomyApp` is an earlier, unplanned prototype of this idea. Use it only as a reference for ideas, comment style, and possible screens. The plan and documents in this repo take priority.
+`hunterd5/ScreentimeEconomyApp` is an earlier, unplanned prototype of this idea. Use it only as a reference for ideas, comment style, and possible screens. Hunter especially likes its **calendar layout**, which is the starting point for the calendar design (roadmap 3.3 and 3.7). The plan and documents in this repo take priority.
